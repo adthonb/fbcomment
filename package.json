@@ -1,0 +1,19 @@
+{
+  "name": "fbpagecomment",
+  "version": "1.1.0",
+  "description": "Pull comments from Page, User post or photo on Facebook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "adthonb",
+    "email": "mongkon@hardwaredata.net",
+    "url": "https://github.com/adthonb"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fb": "^1.1.1"
+  }
+}
